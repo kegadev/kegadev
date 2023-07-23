@@ -19,6 +19,10 @@
 - React Native
 - Unity
 
+### Most important project
+[**Hico:**](https://hicoapp.com/en/index.html)
+web and mobile app for over 1000 doctors arround the globe.
+
 
 ### Love to work and collaborate in
 - Web apps
